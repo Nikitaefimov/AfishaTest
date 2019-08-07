@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df36287c-7122-4823-9417-8653b06370d8" name="Default Changelist" comment="" />
+    <list default="true" id="df36287c-7122-4823-9417-8653b06370d8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/mail/kino/CheckPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/mail/kino/CheckPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/mail/kino/DriverSetup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/mail/kino/DriverSetup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/mail/kino/Start.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/mail/kino/Start.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/mail/kino/test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/mail/kino/test1.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,14 +24,14 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ru/mail/kino/DriverSetup.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+            <state relative-caret-position="629">
+              <caret line="37" column="5" lean-forward="true" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#798#799#0" expanded="true" />
-                <element signature="e#827#828#0" expanded="true" />
-                <element signature="e#882#883#0" expanded="true" />
-                <element signature="e#912#913#0" expanded="true" />
+                <element signature="e#858#859#0" expanded="true" />
+                <element signature="e#887#888#0" expanded="true" />
+                <element signature="e#952#953#0" expanded="true" />
+                <element signature="e#982#983#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -34,17 +40,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ru/mail/kino/Start.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="27" lean-forward="true" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ru/mail/kino/test1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -53,10 +50,29 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ru/mail/kino/test1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1496">
+              <caret line="88" column="45" lean-forward="true" selection-start-line="88" selection-start-column="45" selection-end-line="88" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1646#1647#0" expanded="true" />
+                <element signature="e#1677#1678#0" expanded="true" />
+                <element signature="e#1637#1638#0" expanded="true" />
+                <element signature="e#1666#1667#0" expanded="true" />
+                <element signature="e#2126#2127#0" expanded="true" />
+                <element signature="e#2158#2159#0" expanded="true" />
+                <element signature="e#2207#2208#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/ru/mail/kino/CheckPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="534">
-              <caret line="107" column="1" lean-forward="true" selection-start-line="107" selection-start-column="1" selection-end-line="107" selection-end-column="1" />
+            <state relative-caret-position="238">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -114,10 +130,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="598" />
-    <option name="y" value="175" />
-    <option name="width" value="1380" />
-    <option name="height" value="750" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1176" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -168,12 +184,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/LastTry" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -199,7 +216,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Start">
+  <component name="RunManager" selected="JUnit.Start.testMail">
     <configuration name="Start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.mail.kino.Start" />
       <module name="AfishaTest" />
@@ -277,8 +294,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Start" />
         <item itemvalue="JUnit.Start.testMail" />
+        <item itemvalue="JUnit.Start" />
         <item itemvalue="JUnit.Start.checkTestMail" />
         <item itemvalue="Application.Start" />
         <item itemvalue="JUnit.DriverSetup" />
@@ -299,41 +316,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Start_testMail - 2019.08.07 at 16h 20m 10s.xml">
+    <history-entry file="Start_testMail - 2019.08.07 at 20h 29m 04s.xml">
       <configuration name="Start.testMail" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Start - 2019.08.07 at 16h 20m 42s.xml">
-      <configuration name="Start" configurationId="JUnit" />
+    <history-entry file="Start_testMail - 2019.08.07 at 20h 29m 45s.xml">
+      <configuration name="Start.testMail" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Start - 2019.08.07 at 16h 44m 52s.xml">
-      <configuration name="Start" configurationId="JUnit" />
+    <history-entry file="Start_testMail - 2019.08.07 at 20h 43m 33s.xml">
+      <configuration name="Start.testMail" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Start - 2019.08.07 at 16h 46m 13s.xml">
-      <configuration name="Start" configurationId="JUnit" />
+    <history-entry file="Start_testMail - 2019.08.07 at 20h 44m 36s.xml">
+      <configuration name="Start.testMail" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Start - 2019.08.07 at 16h 48m 13s.xml">
-      <configuration name="Start" configurationId="JUnit" />
+    <history-entry file="Start_testMail - 2019.08.07 at 20h 46m 51s.xml">
+      <configuration name="Start.testMail" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Start - 2019.08.07 at 16h 50m 46s.xml">
-      <configuration name="Start" configurationId="JUnit" />
+    <history-entry file="Start_testMail - 2019.08.07 at 20h 52m 26s.xml">
+      <configuration name="Start.testMail" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Start - 2019.08.07 at 16h 53m 45s.xml">
-      <configuration name="Start" configurationId="JUnit" />
+    <history-entry file="Start_testMail - 2019.08.07 at 20h 54m 14s.xml">
+      <configuration name="Start.testMail" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Start - 2019.08.07 at 16h 56m 25s.xml">
-      <configuration name="Start" configurationId="JUnit" />
+    <history-entry file="Start_testMail - 2019.08.07 at 20h 55m 23s.xml">
+      <configuration name="Start.testMail" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Start - 2019.08.07 at 16h 58m 10s.xml">
-      <configuration name="Start" configurationId="JUnit" />
+    <history-entry file="Start_testMail - 2019.08.07 at 20h 56m 38s.xml">
+      <configuration name="Start.testMail" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Start - 2019.08.07 at 16h 59m 07s.xml">
-      <configuration name="Start" configurationId="JUnit" />
+    <history-entry file="Start_testMail - 2019.08.07 at 21h 04m 48s.xml">
+      <configuration name="Start.testMail" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25746268" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27452025" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -342,7 +360,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32854405" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28544062" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -350,7 +368,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32950193" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32950193" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32854405" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32819384" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -409,13 +427,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="517">
-          <caret line="33" column="29" lean-forward="true" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AfishaTest.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -423,41 +434,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/mail/kino/CheckPage.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="534">
-          <caret line="107" column="1" lean-forward="true" selection-start-line="107" selection-start-column="1" selection-end-line="107" selection-end-column="1" />
+        <state relative-caret-position="561">
+          <caret line="33" column="29" lean-forward="true" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/mail/kino/Start.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/mail/kino/Start.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="27" lean-forward="true" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ru/mail/kino/DriverSetup.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        <state relative-caret-position="629">
+          <caret line="37" column="5" lean-forward="true" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#798#799#0" expanded="true" />
-            <element signature="e#827#828#0" expanded="true" />
-            <element signature="e#882#883#0" expanded="true" />
-            <element signature="e#912#913#0" expanded="true" />
+            <element signature="e#858#859#0" expanded="true" />
+            <element signature="e#887#888#0" expanded="true" />
+            <element signature="e#952#953#0" expanded="true" />
+            <element signature="e#982#983#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ru/mail/kino/test1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+        <state relative-caret-position="1496">
+          <caret line="88" column="45" lean-forward="true" selection-start-line="88" selection-start-column="45" selection-end-line="88" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1646#1647#0" expanded="true" />
+            <element signature="e#1677#1678#0" expanded="true" />
+            <element signature="e#1637#1638#0" expanded="true" />
+            <element signature="e#1666#1667#0" expanded="true" />
+            <element signature="e#2126#2127#0" expanded="true" />
+            <element signature="e#2158#2159#0" expanded="true" />
+            <element signature="e#2207#2208#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/mail/kino/CheckPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

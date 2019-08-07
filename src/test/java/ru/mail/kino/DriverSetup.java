@@ -4,7 +4,7 @@ import org.junit.*;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.GeckoDriverService;
 import org.openqa.selenium.firefox.FirefoxDriver;
-
+import java.util.concurrent.TimeUnit;
 
 import java.io.IOException;
 
@@ -20,15 +20,18 @@ public static WebDriver driver;
                 .build();
         service.start();
     }
+
     @Before
     public void SetUp() {
          driver = new FirefoxDriver();
+        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
     }
 
     @After
     public void tearDown() {
         driver.quit();
     }
+
     @AfterClass
     public static void stopService() {
         service.stop();
