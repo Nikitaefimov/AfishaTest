@@ -12,7 +12,17 @@ public class Start extends DriverSetup {
             test.janr();
             test.onlyTwoD();
             test.Search();
-        }
+
+            CheckPage check = new CheckPage(DriverSetup.driver);
+            check.titleCheck();
+            check.metrometro();
+            check.tomorrowtwow();
+            check.testTTest();
+            check.dramaCheck();
+            check.comedyCheck();
+            check.twoIsD();
+            check.finalCheck();
+    }
 
 
 }

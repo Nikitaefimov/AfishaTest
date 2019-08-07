@@ -14,10 +14,10 @@ public class test1 {
     private WebElement dayWhen;
     @FindBy(xpath = "//*[@data-title='Завтра']//..")
     private WebElement dayList;
-   // @FindBy (xpath = "//div[@class='input-group input-group_fixed']//input[@class='input__field js-suggest__input']")
-  //  private WebElement metroSet;
+    @FindBy (xpath = "//div[@class='input-group input-group_fixed']//input[@class='input__field js-suggest__input']")
+    private WebElement metroSet;
     @FindBy(xpath = "//form[@class='js-module']//*[contains(@placeholder,'Станции метро')]")
-     private WebElement metroSet;
+    private WebElement metroSe;
     @FindBy(xpath = "//*[@data-id='68']")
     private WebElement Kurskaya;
     @FindBy(xpath = "//form[@class='js-module']//*[contains(@placeholder,'Все жанры')]")
@@ -37,36 +37,36 @@ public class test1 {
     }
     public void vKino() throws InterruptedException {
         vKino.click();
-        Thread.sleep(1000);
+        Thread.sleep(500);
     }
 
     public void dayWhen() throws InterruptedException {
         dayWhen.click();
         dayList.click();
-        Thread.sleep(2000);
+        Thread.sleep(500);
     }
     public void metroSet() throws InterruptedException {
-        metroSet.clear();
-        metroSet.sendKeys("Курская");
+        metroSe.clear();
+        metroSe.sendKeys("Курская");
         Thread.sleep(1000);
         Kurskaya.click();
     }
     public void janr()throws InterruptedException {
         Janr.click();
-        Thread.sleep(1000);
+        Thread.sleep(500);
         DramaSelect.click();
-        Thread.sleep(1000);
+        Thread.sleep(500);
         ComedySelect.click();
-        Thread.sleep(1000);
+        Thread.sleep(500);
     }
     public void onlyTwoD() throws InterruptedException{
         onlyTwoD.click();
-        Thread.sleep(3000);
+        Thread.sleep(500);
     }
 
     public void Search() throws InterruptedException {
         Search.click();
-        Thread.sleep(5000);
+        Thread.sleep(500);
     }
 
 
